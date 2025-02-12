@@ -42,7 +42,7 @@ The codebase is divided into multiple files for modularity:
 ### **Setup Instructions**
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/maze-solver-bot.git
+   git clone https://github.com/PRASANTH9819/MAZE-SOLVER
    ```
 2. **Upload the code to Arduino Nano** using the Arduino IDE.
 3. **Assemble the hardware** as per the component list.
